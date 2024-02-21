@@ -20,5 +20,5 @@ conda create env -f sciml_gpu.yaml
 cond activate sciml_gpu
 ```
 
-For the operator inference part, it is essential to install the library from ![https://github.com/Willcox-Research-Group/rom-operator-inference-Python3](https://github.com/Willcox-Research-Group/rom-operator-inference-Python3). 
+For the operator inference part, it is essential to install the library from [https://github.com/Willcox-Research-Group/rom-operator-inference-Python3](https://github.com/Willcox-Research-Group/rom-operator-inference-Python3). 
 
